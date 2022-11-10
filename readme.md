@@ -1,6 +1,7 @@
 # Hello world!
 
 This is practice for Library Carpentry. yay!
+Today is Wednesday!
 
 I found the pencil icon
 Let's go Mountaineers!!
