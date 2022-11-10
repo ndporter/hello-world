@@ -7,7 +7,7 @@ Hi! Adding an autumnal haiku.
 
 Ch-ch-ch-changes
 Hokies Rock Mountaineer socks!
-Autumnal Haiku.
+gobble gobble gob
 
 test test!
 :) Where is Danger Mouse? 
