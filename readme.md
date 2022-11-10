@@ -11,6 +11,13 @@ Ch-ch-ch-changes
 Hokies Rock Mountaineer socks!
 gobble gobble gob
 
+[an actual haiku]
+“The Old Pond” by Matsuo Bashō
+An old silent pond
+A frog jumps into the pond—
+Splash! Silence again.
+
+
 test test!
 :) Where is Danger Mouse? 
 
